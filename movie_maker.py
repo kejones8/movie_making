@@ -1,8 +1,9 @@
+##Author: DLA & KJ, 03/2020
+
 ##This script makes a video from multiple files in the same directory
 ##I think I have tested cv2.imread (line 18) with both jpegs & pngs?
 
-##Author: DLA & KJ, 03/2020
-
+##**This requires installing opencv to import cv2. I had a bit of trouble getting it installed (several months ago), but I found lots of documentation online. 
 
 import os
 import cv2
